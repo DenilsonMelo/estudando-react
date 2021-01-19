@@ -2,6 +2,7 @@ import GlobalStyles from './styles/GlobalStyles';
 
 import Header from './components/Header';
 import Main from './components/Main';
+import SectionModal from './components/SectionModal';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
 
         <Header />
         <Main />
+        <SectionModal />
     </>
   );
 }
