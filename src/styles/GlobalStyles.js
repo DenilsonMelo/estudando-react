@@ -20,7 +20,7 @@ export default createGlobalStyle`
 
     #root{
         --white: #FFF;
-        --gray: #B7B7B7;
+        --gray: #878787;
         --black: #1A1A1A;
         --blue: #001CDB;
         --button-light: #DBDFFA;

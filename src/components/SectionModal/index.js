@@ -1,6 +1,6 @@
-import Modal from '../Modal';
-
 import { Container } from './styles';
+
+import Modal from '../Modal';
 
 export default function SectionModal() {
     return (
